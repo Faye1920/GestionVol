@@ -1,0 +1,8 @@
+14567;Toronto;10;7;2023;157
+17890;Guadeloupe;1;5;2023;340
+19012;Nouvelle-OrlÃ©ans;3;5;2024;250
+22345;Martinique;25;8;2023;337
+28901;Las Vegas;13;5;2023;0
+36789;New-York;15;11;2023;67
+45678;Les Iles BalÃ©ares;6;2;2024;150
+53456;San Francisco;13;6;2023;327
